@@ -1,4 +1,4 @@
-### Steam Gift
+### Steam Gift Cards - Code Generator
 
 #### About
 ---
